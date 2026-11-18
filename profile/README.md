@@ -1,7 +1,5 @@
 <div align="center">
   
-<img width="140" height="140" alt="avatar" src="https://github.com/user-attachments/assets/9c0e4b97-6de5-464e-8c10-e6aab114ba13" />
-
 # 👋 Hello! I'm bbzer0. Nice to meet you.
 **Utilities, websites, and experiments by bbzer0 ([timinside](https://github.com/timinside))**
 
